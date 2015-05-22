@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/达内培训/exam_server0.8/src/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="G:/java资料库/Code_历程/exam/exam/exam_server/src/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
